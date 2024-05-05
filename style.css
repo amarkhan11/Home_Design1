@@ -1,0 +1,32 @@
+body{
+    background-image: url(./Image/home1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h2{
+    color:whitesmoke;
+    margin: left 4%;
+}
+#top{
+color: white;
+}
+#mid{
+    color: white;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+.navbar li{
+    margin-right: 20px;
+    color: white;
+}
+#next{
+    border-radius: 100px;
+    background-color:yellowgreen;
+}
+#thanks{
+    border-radius: 100px;
+    background-color:skyblue;
+}
